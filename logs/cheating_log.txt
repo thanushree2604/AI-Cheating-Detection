@@ -1,3 +1,9 @@
 2025-09-23_18-26-02: Detected cell phone
 2025-09-23_18-29-11: Detected cell phone
 2025-09-23_18-38-35: Detected cell phone
+2025-09-23_19-14-21: Detected cell phone
+2025-09-23_19-15-57: Detected cell phone
+2025-09-23_19-19-51: Detected laptop
+2025-09-23_19-20-00: Detected cell phone
+2025-09-23_19-20-05: Detected cell phone
+2025-09-23_19-23-35: Detected cell phone
